@@ -26,7 +26,7 @@ export function* signIn({ payload }) {
 
     history.push('/dashboard');
   } catch (err) {
-    toast.error('Erro ao tentar acessar, verifique seus dados');
+    toast.error(`Erro ao tentar acessar, verifique seus dados - ${err}`);
     yield put(signFailure());
   }
 }
