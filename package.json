@@ -10,8 +10,10 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-perfect-scrollbar": "^1.5.8",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "react-toastify": "^6.0.5",
     "reactotron-react-js": "^3.3.7",
     "styled-components": "^5.1.1"
   },
