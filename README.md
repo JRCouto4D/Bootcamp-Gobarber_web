@@ -35,6 +35,9 @@ A aplicação vai se iniciar na tela de login. Caso o usário ainda não tenha u
 - redux-saga
 - redux-persist
 - styled-components
+- date-fns
+- date-fns-tz
+- axios
 
 <h3 align="center">Pronto, a aplicação front-end do GoBarber já deve está rodando!!!
   
